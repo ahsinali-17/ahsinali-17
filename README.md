@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Ahsin Ali</h1>
-<h3 align="center">A passionate web developer from Pakistan🇵🇰.</h3>
+<h3 align="center">A passionate web developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsinali-17&label=Profile%20views&color=0e75b6&style=flat" alt="ahsinali-17" /> </p>
 
@@ -16,9 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahsinali_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsinali_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahsin ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsin ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahsin-ali-3a5135276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsin-ali-3a5135276" height="30" width="40" /></a>
 <a href="https://instagram.com/ahsinali_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsinali_17" height="30" width="40" /></a>
-<a href="https://discord.gg/ahsin17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahsin17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
