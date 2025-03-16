@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm M.Ahsin Ali</h1>
-<h3 align="center">A passionate web developer from Pakistan.</h3>
+<h1 align="center">Hi 👋, Welcome to M.Ahsin Ali's profile</h1>
+<h3 align="center">A passionate web developer from Pakistan🇵🇰.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsinali-17&label=Profile%20views&color=0e75b6&style=flat" alt="ahsinali-17" /> </p>
 
-- 🔭 I’m currently working on **BackMyProjects**
+- 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **web Sockets**
 
 - 💬 Ask me about **JS, REACT, express**
 
